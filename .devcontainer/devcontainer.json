@@ -20,7 +20,7 @@
     "settings": {
         "#terminal.integrated.shell.linux": "/bin/bash"
     },
-    // Use 'forwardPorts' to make a list of ports inside the container available locally.
+    // Use 'forwardPorts' to make a list of ports inside the container available locally...
     "forwardPorts": [80],
 
     // Use 'postCreateCommand' to run commands after the container is created.
